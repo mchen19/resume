@@ -42,13 +42,14 @@ section {
 }
 
 .section-title {
+    font-size: 1.2rem;
     margin-bottom: .4rem; 
 }
 
-#skills .section-content {
+/* #skills .section-content {
     display: grid;
     grid-template-columns: 50% 50%;
-}
+} */
 
 .block {
     margin-top: .2rem; 
@@ -61,7 +62,7 @@ section {
 }
 
 .block-subtitle {
-    font-size: .8rem;
+    font-size: .9rem;
     text-align: left;
 }
 
@@ -74,6 +75,6 @@ section {
 
 .author-img {
     margin-top: 1.5rem;
-    max-width: 7rem;
-    max-height: 9.8rem;
+    max-width: 6rem;
+    max-height: 8.4rem;
 }
