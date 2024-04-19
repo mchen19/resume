@@ -16,7 +16,7 @@
    -webkit-font-smoothing: antialiased;
    font-size: 1rem;
    margin: 0;
-   color: #495057;
+   color: #525252;
    background-color: #fff; }
  
  a {
@@ -35,7 +35,7 @@
      display: none; } 
 
     footer{
-      display: none;
+      display: auto;
     }
    
  }
@@ -44,7 +44,7 @@
    margin-left: auto;
    margin-right: auto;
    margin-bottom: 1rem;
-   max-width: 45rem;
+   max-width: 50rem;
    text-align: left; 
  }
  
@@ -73,6 +73,6 @@
  }
  
  footer {
-   color: #adb5bd;
+   color: #909090;
    line-height: 1.5rem;
  }
